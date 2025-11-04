@@ -10,18 +10,11 @@
 
 
 test.jsp
-github update
-
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-sssssaaaaaaassddssssssss
-asdsd
-=======
->>>>>>> branch 'main' of https://github.com/SSH-cloud/gittest20251104.git
+github
 </body>
 
 
 
 </html>
+
 
