@@ -7,6 +7,12 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 test.jsp ds d
+=======
+test.jsp
+github update
+>>>>>>> branch 'main' of https://github.com/SSH-cloud/gittest20251104.git
 </body>
+
 </html>
